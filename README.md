@@ -1,3 +1,3 @@
-Ceci est un minijeu appelé Puissance_4 dont l'objectif est d'aligner 4 marques pour gagner
-Le jeu se joue sur un terminal et doit se jouer en multijoueur 
+Ceci est un minijeu appelé Pendu dont l'objectif est de deviner le mot secret presenté sur l'ecran.
+Le jeu se joue sur un terminal
 Il est encore loin d'etre parfait mais on fait de notre mieux
